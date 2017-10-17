@@ -1,7 +1,7 @@
 10/9/17 - 10/15/17
 
   Team:
-    a. Created an organizational structure (will be organized into a report that's due 10/19
+    a. Created an organizational structure (will be organized into a report that's due 10/19)
     b. Set up a working environment - GitHub and Google Spreadsheets
     c. Decided on processors/accelerometer/transceiver/power delivery method
   
@@ -9,7 +9,8 @@
     a.
   
   Mark:
-    a.
+    a. Researched microcontrollers to use.
+    b. Explored accelerometer options in terms of which is easiest to interface with chosen microcontrollers.
   
   Tapas:
     a. Explored methods of power delivery (zener voltage regulators/voltage divider/voltage regulator chip) and concluded that we will use buck converters because of their efficiency, and because they're cool
