@@ -9,7 +9,7 @@
     a.
   
   Mark:
-    a.
+    a. A
   
   Tapas:
     a. Explored methods of power delivery (zener voltage regulators/voltage divider/voltage regulator chip) and concluded that we will use buck converters because of their efficiency, and because they're cool
